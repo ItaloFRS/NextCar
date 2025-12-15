@@ -27,7 +27,7 @@ const navigation = useNavigate();
           <h1>Qualidade, Segurança e Transparência.</h1> 
           <button onClick={() => navigation('/estoque')} className="button">Acessar estoque completo</button>
         </div>
-        <div className="img-destaque"><img src="public\porsche-model5 1.png" alt="" /></div>
+        <div className="img-destaque"><img src="/porsche-model5 1.png" alt="" /></div>
       </div>
       
     </section> 
